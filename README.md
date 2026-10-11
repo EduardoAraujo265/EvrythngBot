@@ -11,6 +11,11 @@ Bot de Discord (discord.js v14) com slash commands:
 | `/feriados [ano]` | Feriados nacionais do ano e quanto falta para o próximo |
 | `/fipe codigo:<codigo>` | Preço do veículo na tabela FIPE, por ano/modelo |
 
+## Como adicionar no seu Servidor
+1. Convide o Bot do criador para seu servidor usando [esse link](https://discord.com/oauth2/authorize?client_id=1558626368898605247)
+2. Aproveite o Bot sem precisar rodar localmente!
+
+
 ## APIs (gratuitas, sem chave)
 - **Open-Meteo**: geocoding + previsão do tempo
 - **AwesomeAPI**: cotações USD-BRL e BTC-BRL
